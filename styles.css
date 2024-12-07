@@ -1,4 +1,4 @@
 /*  your css code here. If applicable */
-.input{
+.input:nth-child(even){
 	color:red;
 }
